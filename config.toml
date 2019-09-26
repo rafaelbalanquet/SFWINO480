@@ -2,6 +2,7 @@ title = "Notre-Dame de Paris"
 baseURL = ""
 languageCode = "en-us"
 theme = "ananke"
+themeDir = "themes"
 
 
 MetaDataFormat = "yaml"
